@@ -1,0 +1,8 @@
+
+.container {
+
+  input[type=email]:not(:placeholder-shown) {
+    direction: ltr !important;
+    text-align: left !important;
+  }
+}
